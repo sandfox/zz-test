@@ -3,3 +3,7 @@ enabled: true
 ignore_branches: 
   - sandfox/patch-*
   - /sandfox-[0-9]/i
+  
+ignore_labels:
+  - keep-branch
+  
