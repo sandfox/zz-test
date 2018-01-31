@@ -1,3 +1,5 @@
 enabled: true
 
-ignore_branches: sandfox/patch-*
+ignore_branches: 
+  - sandfox/patch-*
+  - /sandfox-[0-9]/i
