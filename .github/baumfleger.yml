@@ -6,4 +6,5 @@ ignore_branches:
   
 ignore_labels:
   - keep-branch
+  - good first issue
   
